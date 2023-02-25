@@ -20,3 +20,12 @@ O script começa transformando a string em uma lista de caracteres. Em seguida, 
 
 ## Dependências
 Este script não possui dependências externas.
+
+## Tecnologias Usadas:
+
+<table>
+  <tr>
+    <td>PYTHON</td>
+    
+  </tr>
+ 
